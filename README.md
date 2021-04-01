@@ -32,6 +32,8 @@
 
 - https://github.com/golang-standards/project-layout
 - https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/
+- https://www.wolfe.id.au/2020/03/10/how-do-i-structure-my-go-project/
+- https://medium.com/golang-learn/go-project-layout-e5213cdcfaa2
 
 
 ## Files and Packages
