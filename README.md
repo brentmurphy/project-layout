@@ -31,7 +31,6 @@
 ### References
 
 - https://github.com/golang-standards/project-layout
-- https://rakyll.org/style-packages/
 - https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/
 
 
@@ -45,5 +44,6 @@
 
 ### References
 
+- https://rakyll.org/style-packages/
 - https://golang.org/doc/effective_go#names
 - https://www.ardanlabs.com/blog/2017/02/design-philosophy-on-packaging.html
