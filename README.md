@@ -39,7 +39,7 @@
 ## Files and Packages
 
 - Package names should be short, be singular, contain no underscores and avoid stutter
-- Packages should be organised by feature not type (e.g. `profile.User` vs `model.User`)
+- Some developers suggest packages should be organised by feature not type (e.g. `profile.User` vs `model.User`) to avoid circular dependency problems.
 - File names can have underscores for readability ([examples](https://golang.org/src/html/template/) in standard library)
 - Libraries should only have a single purpose, and therefore tend to be small
 
